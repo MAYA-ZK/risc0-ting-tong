@@ -2,6 +2,8 @@
 
 Welcome to our hackathon project backed by [RockawayX](https://rockawayx.com/)!! We've developed a simple, incomplete information game based on the RISC-0. This game is a fun way to challenge your friends and test your guessing abilities.
 
+We also won one of the bounties from [Risc-0](https://www.risczero.com/) during the [ZK-hack](https://zkhack.dev/) event in Lisbon.
+
 ## Quick Start
 
 First, make sure [rustup](https://rustup.rs) is installed. This project uses a [nightly](https://doc.rust-lang.org/book/appendix-07-nightly-rust.html) version of [Rust](https://doc.rust-lang.org/book/ch01-01-installation.html). The [`rust-toolchain`](rust-toolchain) file will be used by `cargo` to automatically install the correct version. To start the game, run the following command:
